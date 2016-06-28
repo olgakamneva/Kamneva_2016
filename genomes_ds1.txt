@@ -1,0 +1,309 @@
+TID	name	official name	superkingdom	phylum	class	order	family	genus	species	subspecies
+267608	Ralstonia solanacearum GMI1000	Ralstonia solanacearum GMI1000	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	1
+575587	Acinetobacter junii	Acinetobacter junii SH205	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter junii	1
+257363	Rickettsia typhi	Rickettsia typhi str. Wilmington	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia typhi	1
+391008	Stenotrophomonas maltophilia R5513	Stenotrophomonas maltophilia R551-3	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia	1
+190650	Caulobacter crescentus	Caulobacter crescentus CB15	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter vibrioides	1
+718254	Enterobacter cloacae NCTC9394	Enterobacter cloacae subsp. cloacae NCTC 9394	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	Enterobacter cloacae subsp. cloacae
+575589	Acinetobacter radioresistens	Acinetobacter radioresistens SH164	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter radioresistens	1
+1050720	Agrobacterium tumefaciens F2	Agrobacterium tumefaciens F2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium tumefaciens	1
+317655	Sphingopyxis alaskensis	Sphingopyxis alaskensis RB2256	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	Sphingopyxis alaskensis	1
+360911	Exiguobacterium sp. AT1b	Exiguobacterium sp. AT1b	Bacteria	Firmicutes	Bacilli	Bacillales	1	Exiguobacterium	1	1
+441620	Methylobacterium populi	Methylobacterium populi BJ001	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium populi	1
+74546	Prochlorococcus marinus MIT9312	Prochlorococcus marinus str. MIT 9312	Bacteria	Cyanobacteria	1	Prochlorales	Prochlorococcaceae	Prochlorococcus	Prochlorococcus marinus	1
+439497	Ruegeria sp. R11	Ruegeria sp. R11	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria	1	1
+684719	alpha proteobacterium HIMB114	alpha proteobacterium HIMB114	Bacteria	Proteobacteria	Alphaproteobacteria	1	1	1	1	1
+314275	Alteromonas macleodii	Alteromonas macleodii str. Deep ecotype	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	Alteromonas macleodii	1
+543728	Variovorax paradoxus S110	Variovorax paradoxus S110	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax paradoxus	1
+633149	Brevundimonas subvibrioides	Brevundimonas subvibrioides ATCC 15264	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas subvibrioides	1
+31964	Clavibacter michiganensis sepedonicus	Clavibacter michiganensis subsp. sepedonicus	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Clavibacter	Clavibacter michiganensis	1
+198094	Bacillus anthracis Ames	Bacillus anthracis str. Ames	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	1
+985665	Paenibacillus terrae	Paenibacillus terrae HPL-003	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus terrae	1
+525365	Lactobacillus ultunensis	Lactobacillus ultunensis DSM 16047	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus ultunensis	1
+714313	Lactobacillus sanfranciscensis	Lactobacillus sanfranciscensis TMW 1.1304	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus sanfranciscensis	1
+634452	Acetobacter pasteurianus	Acetobacter pasteurianus IFO 3283-01	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	Acetobacter pasteurianus subsp. pasteurianus
+349163	Acidiphilium cryptum	Acidiphilium cryptum JF-5	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidiphilium	Acidiphilium cryptum	1
+595536	Methylosinus trichosporium	Methylosinus trichosporium OB3b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylosinus	Methylosinus trichosporium	1
+395019	Burkholderia multivorans	Burkholderia multivorans ATCC 17616	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia multivorans	1
+243365	Chromobacterium violaceum	Chromobacterium violaceum ATCC 12472	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium	Chromobacterium violaceum	1
+444177	Lysinibacillus sphaericus	Lysinibacillus sphaericus C3-41	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Lysinibacillus	Lysinibacillus sphaericus	1
+987059	Rubrivivax benzoatilyticus	Rubrivivax benzoatilyticus JA2	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	1	Rubrivivax	Rubrivivax benzoatilyticus	1
+525146	Desulfovibrio desulfuricans ATCC27774	Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio desulfuricans	Desulfovibrio desulfuricans subsp. desulfuricans
+911104	Weissella cibaria	Weissella cibaria KACC 11862	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella	Weissella cibaria	1
+595494	Tolumonas auensis	Tolumonas auensis DSM 9187	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Tolumonas	Tolumonas auensis	1
+596154	Alicycliphilus denitrificans	Alicycliphilus denitrificans K601	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Alicycliphilus	Alicycliphilus denitrificans	1
+382245	Aeromonas salmonicida	Aeromonas salmonicida subsp. salmonicida A449	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas salmonicida	Aeromonas salmonicida subsp. salmonicida
+522306	Accumulibacter phosphatis	Candidatus Accumulibacter phosphatis clade IIA str. UW-1	Bacteria	Proteobacteria	Betaproteobacteria	1	1	Candidatus Accumulibacter	Candidatus Accumulibacter phosphatis	1
+330214	Nitrospira defluvii	Candidatus Nitrospira defluvii	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	1	1
+743720	Pseudomonas fulva	Pseudomonas fulva 12-X	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fulva	1
+290340	Arthrobacter aurescens	Arthrobacter aurescens TC1	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter aurescens	1
+436717	Acinetobacter oleivorans	Acinetobacter oleivorans DR1	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter oleivorans	1
+234621	Rhodococcus erythropolis	Rhodococcus erythropolis PR4	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus erythropolis	1
+570417	Wolbachia sp. Cq	Wolbachia endosymbiont of Culex quinquefasciatus Pel	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Wolbachia	Wolbachia endosymbiont of Culex quinquefasciatus	1
+891974	Plautia stali	Plautia stali symbiont	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	1	1	1
+420890	Lactococcus garvieae	Lactococcus garvieae Lg2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus garvieae	1
+1028307	Enterobacter aerogenes	Enterobacter aerogenes KCTC 2190	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter aerogenes	1
+529507	Proteus mirabilis	Proteus mirabilis HI4320	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus mirabilis	1
+658655	Lachnospiraceae bacterium 1456FAA	Lachnospiraceae bacterium 1_4_56FAA	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	1	1	1
+446468	Nocardiopsis dassonvillei	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	Bacteria	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis dassonvillei	Nocardiopsis dassonvillei subsp. dassonvillei
+411468	Clostridium scindens	Clostridium scindens ATCC 35704	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Clostridium scindens	1
+470146	Coprococcus comes	Coprococcus comes ATCC 27758	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus comes	1
+457412	Ruminococcus sp. 5139BFAA	Ruminococcus sp. 5_1_39BFAA	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	1	1
+457425	Streptomyces albus	Streptomyces albus J1074	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces albus	1
+1042163	Brevibacillus laterosporus	Brevibacillus laterosporus LMG 15441	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	Brevibacillus laterosporus	1
+390333	Lactobacillus delbrueckii	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus delbrueckii	Lactobacillus delbrueckii subsp. bulgaricus
+535289	Acidovorax ebreus	Acidovorax ebreus TPSY	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax ebreus	1
+313627	Bacillus sp. NRRLB14911	Bacillus sp. NRRL B-14911	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	1	1
+979556	Microbacterium testaceum	Microbacterium testaceum StLB037	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium testaceum	1
+290399	Arthrobacter sp. FB24	Arthrobacter sp. FB24	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	1	1
+452863	Arthrobacter chlorophenolicus	Arthrobacter chlorophenolicus A6	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter chlorophenolicus	1
+471874	Providencia stuartii	Providencia stuartii ATCC 25827	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Providencia	Providencia stuartii	1
+556261	Clostridium sp. D5	Clostridium sp. D5	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	1	1
+742767	Dysgonomonas mossii	Dysgonomonas mossii DSM 22836	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Dysgonomonas	Dysgonomonas mossii	1
+76114	Aromatoleum aromaticum	Aromatoleum aromaticum EbN1	Bacteria	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Aromatoleum	Aromatoleum aromaticum	1
+216432	Croceibacter atlanticus	Croceibacter atlanticus HTCC2559	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Croceibacter	Croceibacter atlanticus	1
+313594	Polaribacter irgensii	Polaribacter irgensii 23-P	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Polaribacter	Polaribacter irgensii	1
+391626	Octadecabacter antarcticus 307	Octadecabacter antarcticus 307	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Octadecabacter	Octadecabacter antarcticus	1
+1002672	Pelagibacter sp. IMCC9063	Candidatus Pelagibacter sp. IMCC9063	Bacteria	Proteobacteria	Alphaproteobacteria	1	1	Candidatus Pelagibacter	1	1
+393595	Alcanivorax borkumensis	Alcanivorax borkumensis SK2	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	Alcanivorax borkumensis	1
+667129	Serratia odorifera DSM4582	Serratia odorifera DSM 4582	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia odorifera	1
+675813	Vibrio metschnikovii	Vibrio metschnikovii CIP 69.14	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio metschnikovii	1
+287752	Aurantimonas manganoxydans	Aurantimonas manganoxydans SI85-9A1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aurantimonas	Aurantimonas manganoxydans	1
+158878	Staphylococcus aureus Mu50	Staphylococcus aureus subsp. aureus Mu50	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	Staphylococcus aureus subsp. aureus
+220664	Pseudomonas fluorescens Pf5	Pseudomonas fluorescens Pf-5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas protegens	1
+283942	Idiomarina loihiensis	Idiomarina loihiensis L2TR	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Idiomarina	Idiomarina loihiensis	1
+188626	Dermacoccus sp. Ellin185	Dermacoccus sp. Ellin185	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Dermacoccus	1	1
+875328	Mycobacterium sp. JDM601	Mycobacterium sp. JDM601	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1	1
+228405	Hyphomonas neptunium	Hyphomonas neptunium ATCC 15444	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	Hyphomonas	Hyphomonas neptunium	1
+645127	Corynebacterium kroppenstedtii	Corynebacterium kroppenstedtii DSM 44385	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium kroppenstedtii	1
+365046	Ramlibacter tataouinensis	Ramlibacter tataouinensis TTB310	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter	Ramlibacter tataouinensis	1
+765698	Mesorhizobium ciceri	Mesorhizobium ciceri biovar biserrulae WSM1271	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium ciceri	1
+411684	Hoeflea phototrophica	Hoeflea phototrophica DFL-43	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Hoeflea	Hoeflea phototrophica	1
+314262	Roseobacter sp. MED193	Roseobacter sp. MED193	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseobacter	1	1
+243230	Deinococcus radiodurans	Deinococcus radiodurans R1	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus radiodurans	1
+313589	Janibacter sp. HTCC2649	Janibacter sp. HTCC2649	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter	1	1
+685727	Rhodococcus equi	Rhodococcus equi 103S	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus equi	1
+208596	Carnobacterium sp. 174	Carnobacterium sp. 17-4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	1	1
+634499	Erwinia pyrifoliae	Erwinia pyrifoliae Ep1/96	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia pyrifoliae	1
+634500	Erwinia billingiae	Erwinia billingiae Eb661	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia billingiae	1
+592316	Pantoea sp. At9b	Pantoea sp. At-9b	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pantoea	1	1
+706191	Pantoea ananatis	Pantoea ananatis LMG 20103	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pantoea	Pantoea ananatis	1
+626369	Granulicatella elegans	Granulicatella elegans ATCC 700633	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	Granulicatella elegans	1
+349520	Paenibacillus polymyxa E681	Paenibacillus polymyxa E681	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa	1
+378753	Kocuria rhizophila	Kocuria rhizophila DC2201	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	Kocuria rhizophila	1
+675814	Vibrio coralliilyticus	Vibrio coralliilyticus ATCC BAA-450	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio coralliilyticus	1
+345073	Vibrio cholerae O395	Vibrio cholerae O395	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio cholerae	1
+391574	Vibrionales bacterium SWAT3	Vibrionales bacterium SWAT-3	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	1	1	1	1
+478801	Kytococcus sedentarius	Kytococcus sedentarius DSM 20547	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Kytococcus	Kytococcus sedentarius	1
+243231	Geobacter sulfurreducens	Geobacter sulfurreducens PCA	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter sulfurreducens	1
+1035184	Streptococcus constellatus	Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus constellatus	Streptococcus constellatus subsp. pharyngis
+767100	Parvimonas sp. F0139	Parvimonas sp. oral taxon 110 str. F0139	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Parvimonas	Parvimonas sp. oral taxon 110	1
+680646	Rothia mucilaginosa	Rothia mucilaginosa DY-18	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia mucilaginosa	1
+596329	Peptostreptococcus anaerobius	Peptostreptococcus anaerobius 653-L	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus anaerobius	1
+326426	Bifidobacterium breve	Bifidobacterium breve UCC2003	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve	1
+585501	Oribacterium sinus	Oribacterium sinus F0268	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Oribacterium	Oribacterium sinus	1
+706433	Solobacterium moorei	Solobacterium moorei F0204	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Solobacterium	Solobacterium moorei	1
+888048	Streptococcus parasanguinis	Streptococcus parasanguinis ATCC 903	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasanguinis	1
+575614	Prevotella sp. F0039	Prevotella sp. oral taxon 299 str. F0039	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella sp. oral taxon 299	1
+706434	Megasphaera micronuciformis	Megasphaera micronuciformis F0359	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Megasphaera	Megasphaera micronuciformis	1
+888052	Actinomyces sp. 180	Actinomyces sp. oral taxon 180 str. F0310	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 180	1
+596330	Peptoniphilus lacrimalis	Peptoniphilus lacrimalis 315-B	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus lacrimalis	1
+306537	Corynebacterium jeikeium	Corynebacterium jeikeium K411	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium jeikeium	1
+292415	Thiobacillus denitrificans	Thiobacillus denitrificans ATCC 25259	Bacteria	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Thiobacillus	Thiobacillus denitrificans	1
+292414	Ruegeria sp. TM1040	Ruegeria sp. TM1040	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria	1	1
+290339	Cronobacter sakazakii	Cronobacter sakazakii ATCC BAA-894	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Cronobacter	Cronobacter sakazakii	1
+500639	Enterobacter cancerogenus	Enterobacter cancerogenus ATCC 35316	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cancerogenus	1
+944559	Paenibacillus sp. HGF7	Paenibacillus sp. HGF7	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	1	1
+281090	Leifsonia xyli	Leifsonia xyli subsp. xyli str. CTCB07	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	Leifsonia xyli	Leifsonia xyli subsp. xyli
+525263	Corynebacterium lipophiloflavum	Corynebacterium lipophiloflavum DSM 44291	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium lipophiloflavum	1
+525268	Corynebacterium striatum	Corynebacterium striatum ATCC 6940	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium striatum	1
+262543	Exiguobacterium sibiricum	Exiguobacterium sibiricum 255-15	Bacteria	Firmicutes	Bacilli	Bacillales	1	Exiguobacterium	Exiguobacterium sibiricum	1
+537011	Prevotella copri	Prevotella copri DSM 18205	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella copri	1
+411461	Dorea formicigenerans	Dorea formicigenerans ATCC 27755	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea formicigenerans	1
+195103	Clostridium perfringens ATCC13124	Clostridium perfringens ATCC 13124	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium perfringens	1
+226185	Enterococcus faecalis	Enterococcus faecalis V583	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	1
+552396	Erysipelotrichaceae bacterium 5254FAA	Erysipelotrichaceae bacterium 5_2_54FAA	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	1	1	1
+585543	Bacteroides sp. D20	Bacteroides sp. D20	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	1	1
+411490	Anaerostipes caccae	Anaerostipes caccae DSM 14662	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	Anaerostipes caccae	1
+314232	Loktanella vestfoldensis	Loktanella vestfoldensis SKA53	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Loktanella	Loktanella vestfoldensis	1
+861360	Arthrobacter arilaitensis	Arthrobacter arilaitensis Re117	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter arilaitensis	1
+325240	Shewanella baltica	Shewanella baltica OS155	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella baltica	1
+383407	Xanthomonas oryzae	Xanthomonas oryzae pv. oryzicola BLS256	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas oryzae	1
+457427	Streptomyces himastatinicus	Streptomyces himastatinicus ATCC 53653	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces himastatinicus	1
+675817	Photobacterium damselae	Photobacterium damselae subsp. damselae CIP 102761	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium damselae	Photobacterium damselae subsp. damselae
+467661	Rhodobacteraceae bacterium KLH11	Rhodobacteraceae bacterium KLH11	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	1	1	1
+316278	Synechococcus sp. RCC307	Synechococcus sp. RCC307	Bacteria	Cyanobacteria	1	Chroococcales	1	Synechococcus	1	1
+710685	Mycobacterium rhodesiae	Mycobacterium rhodesiae NBB3	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium rhodesiae	1
+1112204	Gordonia polyisoprenivorans	Gordonia polyisoprenivorans VH2	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia	Gordonia polyisoprenivorans	1
+176299	Agrobacterium tumefaciens C58	Agrobacterium tumefaciens str. C58	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium fabrum	1
+161528	Erythrobacter sp. SD21	Erythrobacter sp. SD-21	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	1	1
+471854	Dyadobacter fermentans	Dyadobacter fermentans DSM 18053	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Dyadobacter	Dyadobacter fermentans	1
+445974	Clostridium ramosum	Clostridium ramosum DSM 1402	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	Erysipelatoclostridium ramosum	1
+212717	Clostridium tetani	Clostridium tetani E88	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium tetani	1
+657309	Bacteroides xylanisolvens	Bacteroides xylanisolvens XB1A	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens	1
+642492	Clostridium lentocellum	Clostridium lentocellum DSM 5427	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Cellulosilyticum	Cellulosilyticum lentocellum	1
+633147	Olsenella uli	Olsenella uli DSM 7084	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	Olsenella uli	1
+1001585	Pseudomonas mendocina NK01	Pseudomonas mendocina NK-01	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mendocina	1
+398767	Geobacter lovleyi	Geobacter lovleyi SZ	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter lovleyi	1
+158189	Sphaerochaeta globus	Sphaerochaeta globus str. Buddy	Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Sphaerochaeta	Sphaerochaeta globosa	1
+324057	Paenibacillus sp. JDR2	Paenibacillus sp. JDR-2	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	1	1
+548476	Corynebacterium aurimucosum	Corynebacterium aurimucosum ATCC 700975	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium aurimucosum	1
+592026	Catonella morbi	Catonella morbi ATCC 51271	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella	Catonella morbi	1
+864565	Eubacterium yurii	Eubacterium yurii subsp. margaretiae ATCC 43715	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptoclostridium	Eubacterium yurii	Eubacterium yurii subsp. margaretiae
+1000588	Streptococcus mitis SK95	Streptococcus mitis bv. 2 str. SK95	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis	1
+649754	Corynebacterium ammoniagenes	Corynebacterium ammoniagenes DSM 20306	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ammoniagenes	1
+314266	Sphingomonas sp. SKA58	Sphingomonas sp. SKA58	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	1	1
+388739	Roseobacter sp. SK20926	Roseobacter sp. SK209-2-6	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseobacter	1	1
+321955	Brevibacterium linens	Brevibacterium linens BL2	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium linens	1
+546271	Selenomonas sputigena	Selenomonas sputigena ATCC 35185	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Selenomonas	Selenomonas sputigena	1
+575611	Prevotella buccae	Prevotella buccae D17	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella buccae	1
+596327	Porphyromonas uenonis	Porphyromonas uenonis 60-3	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas uenonis	1
+470145	Bacteroides coprocola	Bacteroides coprocola DSM 17136	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprocola	1
+1097668	Burkholderia sp. YI23	Burkholderia sp. YI23	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	1	1
+622637	Methylocystis sp. ATCC49242	Methylocystis sp. ATCC 49242	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylocystis	1	1
+247156	Nocardia farcinica	Nocardia farcinica IFM 10152	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia farcinica	1
+525255	Anaerococcus tetradius	Anaerococcus tetradius ATCC 35098	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	Anaerococcus tetradius	1
+1051006	Propionibacterium acnes SK182BJCVI	Propionibacterium acnes SK182B-JCVI	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium acnes	1
+862515	Prevotella marshii	Prevotella marshii DSM 16973	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella marshii	1
+190304	Fusobacterium nucleatum nucleatum	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. nucleatum
+879308	Peptoniphilus sp. F0436	Peptoniphilus sp. oral taxon 375 str. F0436	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus sp. oral taxon 375	1
+888741	Kingella denitrificans	Kingella denitrificans ATCC 33394	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella denitrificans	1
+888057	Aggregatibacter segnis	Aggregatibacter segnis ATCC 33393	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter segnis	1
+575584	Acinetobacter baumannii	Acinetobacter baumannii ATCC 19606	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	1
+888742	Neisseria bacilliformis	Neisseria bacilliformis ATCC BAA-1200	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria bacilliformis	1
+767031	Prevotella denticola	Prevotella denticola F0289	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella denticola	1
+546262	Neisseria cinerea	Neisseria cinerea ATCC 14685	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria cinerea	1
+379066	Gemmatimonas aurantiaca	Gemmatimonas aurantiaca T-27	Bacteria	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	Gemmatimonas aurantiaca	1
+411471	Subdoligranulum variabile	Subdoligranulum variabile DSM 15176	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	Subdoligranulum variabile	1
+547042	Bacteroides coprophilus	Bacteroides coprophilus DSM 18228	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprophilus	1
+1040964	Lactobacillus ruminis	Lactobacillus ruminis SPM0211	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus ruminis	1
+525366	Lactobacillus vaginalis	Lactobacillus vaginalis ATCC 49540	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus vaginalis	1
+930942	Lactobacillus animalis	Lactobacillus animalis KCTC 3501	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus animalis	1
+411463	Eubacterium ventriosum	Eubacterium ventriosum ATCC 27560	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium ventriosum	1
+471870	Bacteroides intestinalis	Bacteroides intestinalis DSM 17393	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides intestinalis	1
+908612	Alistipes sp. HGB5	Alistipes sp. HGB5	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	1	1
+445970	Alistipes putredinis	Alistipes putredinis DSM 17216	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis	1
+762984	Bacteroides clarus	Bacteroides clarus YIT 12056	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides clarus	1
+398513	Bifidobacterium bifidum	Bifidobacterium bifidum NCIMB 41171	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	1
+367928	Bifidobacterium adolescentis	Bifidobacterium adolescentis ATCC 15703	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis	1
+245018	butyrate-producing bacterium SSC2	butyrate-producing bacterium SSC/2	Bacteria	Firmicutes	Clostridia	Clostridiales	1	1	1	1
+411464	Desulfovibrio piger	Desulfovibrio piger ATCC 29098	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio piger	1
+484018	Bacteroides plebeius	Bacteroides plebeius DSM 17135	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides plebeius	1
+511680	Butyrivibrio crossotus	Butyrivibrio crossotus DSM 2876	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio	Butyrivibrio crossotus	1
+476272	Blautia hydrogenotrophica	Blautia hydrogenotrophica DSM 10507	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hydrogenotrophica	1
+545696	Holdemania filiformis	Holdemania filiformis DSM 12042	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemania	Holdemania filiformis	1
+552531	Bifidobacterium animalis	Bifidobacterium animalis subsp. lactis BB-12	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium animalis	Bifidobacterium animalis subsp. lactis
+525254	Anaerococcus lactolyticus	Anaerococcus lactolyticus ATCC 51172	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	Anaerococcus lactolyticus	1
+553204	Corynebacterium amycolatum	Corynebacterium amycolatum SK46	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium amycolatum	1
+743718	Isoptericola variabilis	Isoptericola variabilis 225	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	Isoptericola	Isoptericola variabilis	1
+933115	Planococcus donghaensis	Planococcus donghaensis MPA1U2	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Planococcus	Planococcus donghaensis	1
+511437	Lactobacillus buchneri NRRLB30929	Lactobacillus buchneri NRRL B-30929	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus buchneri	1
+314315	Lactobacillus sakei	Lactobacillus sakei subsp. sakei 23K	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus sakei	Lactobacillus sakei subsp. sakei
+585530	Brevibacterium mcbrellneri	Brevibacterium mcbrellneri ATCC 49030	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium mcbrellneri	1
+479431	Nakamurella multipartita	Nakamurella multipartita DSM 44233	Bacteria	Actinobacteria	Actinobacteria	Nakamurellales	Nakamurellaceae	Nakamurella	Nakamurella multipartita	1
+866774	Atopobium vaginae PB189T14	Atopobium vaginae PB189-T1-4	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium vaginae	1
+908338	Peptoniphilus harei	Peptoniphilus harei ACS-146-V-Sch2b	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus harei	1
+312284	marine actinobacterium	marine actinobacterium PHSC20C1	Bacteria	Actinobacteria	Actinobacteria	1	1	1	1	1
+546273	Veillonella dispar	Veillonella dispar ATCC 17748	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella	Veillonella dispar	1
+446462	Actinosynnema mirum	Actinosynnema mirum DSM 43827	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinosynnema	Actinosynnema mirum	1
+591001	Acidaminococcus fermentans	Acidaminococcus fermentans DSM 20731	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Acidaminococcus	Acidaminococcus fermentans	1
+553220	Campylobacter gracilis	Campylobacter gracilis RM3268	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter gracilis	1
+655811	Anaerococcus vaginalis	Anaerococcus vaginalis ATCC 51170	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	Anaerococcus vaginalis	1
+446469	Sanguibacter keddieii	Sanguibacter keddieii DSM 10542	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Sanguibacteraceae	Sanguibacter	Sanguibacter keddieii	1
+936140	Lactobacillus farciminis	Lactobacillus farciminis KCTC 3681	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus farciminis	1
+391596	Pedobacter sp. BAL39	Pedobacter sp. BAL39	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	1	1
+272568	Gluconacetobacter diazotrophicus	Gluconacetobacter diazotrophicus PAl 5	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Gluconacetobacter	Gluconacetobacter diazotrophicus	1
+556263	Fusobacterium sp. D12	Fusobacterium sp. D12	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium necrophorum	1
+483215	Bacteroides finegoldii	Bacteroides finegoldii DSM 17565	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides finegoldii	1
+396513	Staphylococcus carnosus	Staphylococcus carnosus subsp. carnosus TM300	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus carnosus	Staphylococcus carnosus subsp. carnosus
+526227	Meiothermus silvanus	Meiothermus silvanus DSM 9946	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Meiothermus	Meiothermus silvanus	1
+1002339	Psychrobacter sp. 1501	Psychrobacter sp. 1501(2011)	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	1	1
+585528	Gardnerella vaginalis ATCC14018	Gardnerella vaginalis ATCC 14018 = JCM 11026	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	Gardnerella vaginalis	1
+546263	Neisseria elongata	Neisseria elongata subsp. glycolytica ATCC 29315	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria elongata	Neisseria elongata subsp. glycolytica
+428125	Clostridium leptum	Clostridium leptum DSM 753	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	Clostridium leptum	1
+1005090	Buchnera aphidicola Ak	Buchnera aphidicola str. Ak (Acyrthosiphon kondoi)	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Buchnera	Buchnera aphidicola	1
+1035188	Haemophilus pittmaniae	Haemophilus pittmaniae HK 85	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus pittmaniae	1
+596320	Neisseria flavescens SK114	Neisseria flavescens SK114	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens	1
+742740	Clostridium symbiosum	Clostridium symbiosum WAL-14163	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Clostridium symbiosum	1
+657313	Ruminococcus torques L214	Ruminococcus torques L2-14	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Ruminococcus torques	1
+467705	Streptococcus gordonii	Streptococcus gordonii str. Challis substr. CH1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gordonii	1
+908937	Prevotella dentalis	Prevotella dentalis DSM 3688	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella dentalis	1
+553171	Prevotella bivia	Prevotella bivia JCVIHMP010	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella bivia	1
+311403	Agrobacterium radiobacter	Agrobacterium radiobacter K84	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium tumefaciens	1
+411460	Ruminococcus torques ATCC27756	Ruminococcus torques ATCC 27756	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Ruminococcus torques	1
+457405	Fusobacterium sp. 71	Fusobacterium sp. 7_1	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium nucleatum	Fusobacterium nucleatum subsp. animalis
+226186	Bacteroides thetaiotaomicron	Bacteroides thetaiotaomicron VPI-5482	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron	1
+561177	Anaerococcus hydrogenalis	Anaerococcus hydrogenalis DSM 7454	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	Anaerococcus hydrogenalis	1
+245014	butyrate-producing bacterium SS34	butyrate-producing bacterium SS3/4	Bacteria	Firmicutes	Clostridia	Clostridiales	1	1	1	1
+742766	Dysgonomonas gadei	Dysgonomonas gadei ATCC BAA-286	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Dysgonomonas	Dysgonomonas gadei	1
+638301	Granulicatella adiacens	Granulicatella adiacens ATCC 49175	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	Granulicatella adiacens	1
+469617	Fusobacterium ulcerans	Fusobacterium ulcerans ATCC 49185	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium ulcerans	1
+379731	Pseudomonas stutzeri	Pseudomonas stutzeri A1501	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	1
+196162	Nocardioides sp. JS614	Nocardioides sp. JS614	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	1	1
+445973	Clostridium bartlettii	Clostridium bartlettii DSM 16795	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Intestinibacter	Intestinibacter bartlettii	1
+83332	Mycobacterium tuberculosis H37Rv	Mycobacterium tuberculosis H37Rv	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	1
+585529	Corynebacterium genitalium	Corynebacterium genitalium ATCC 33030	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium genitalium	1
+679189	Prevotella timonensis	Prevotella timonensis CRIS 5C-B1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella timonensis	1
+575615	Prevotella sp. F0108	Prevotella sp. oral taxon 317 str. F0108	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella sp. oral taxon 317	1
+866771	Prevotella disiens	Prevotella disiens FB035-09AN	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella disiens	1
+887327	Kingella kingae	Kingella kingae ATCC 23330	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella kingae	1
+887325	Eubacterium saburreum	Eubacterium saburreum DSM 3986	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum	Lachnoanaerobaculum saburreum	1
+585503	Selenomonas noxia	Selenomonas noxia ATCC 43541	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Selenomonas	Selenomonas noxia	1
+575606	Lactobacillus jensenii 272CHN	Lactobacillus jensenii 27-2-CHN	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus jensenii	1
+469613	Enterobacteriaceae bacterium	Enterobacteriaceae bacterium 9_2_54FAA	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	1	1	1
+350058	Mycobacterium vanbaalenii	Mycobacterium vanbaalenii PYR-1	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium vanbaalenii	1
+360104	Campylobacter concisus	Campylobacter concisus 13826	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter concisus	1
+323850	Shewanella loihica	Shewanella loihica PV-4	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella loihica	1
+221109	Oceanobacillus iheyensis	Oceanobacillus iheyensis HTE831	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus iheyensis	1
+66692	Bacillus clausii	Bacillus clausii KSM-K16	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus clausii	1
+690566	Sphingobium chlorophenolicum	Sphingobium chlorophenolicum L-1	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	Sphingobium chlorophenolicum	1
+506534	Rheinheimera sp. A13L	Rheinheimera sp. A13L	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Rheinheimera	1	1
+743525	Thermus scotoductus	Thermus scotoductus SA-01	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Thermus	Thermus scotoductus	1
+269797	Methanosarcina barkeri	Methanosarcina barkeri str. Fusaro	Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina barkeri	1
+883	Desulfovibrio vulgaris Miyazaki	Desulfovibrio vulgaris str. 'Miyazaki F'	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio vulgaris	1
+764299	Streptococcus ictaluri	Streptococcus ictaluri 707-05	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus ictaluri	1
+653045	Streptomyces violaceusniger	Streptomyces violaceusniger Tu 4113	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces violaceusniger	1
+645465	Streptomyces sp. e14	Streptomyces sp. e14	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	1	1
+263358	Verrucosispora maris	Verrucosispora maris AB-18-032	Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Verrucosispora	Verrucosispora maris	1
+504474	Corynebacterium urealyticum	Corynebacterium urealyticum DSM 7109	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium urealyticum	1
+760192	Haliscomenobacter hydrossis	Haliscomenobacter hydrossis DSM 1100	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Saprospiraceae	Haliscomenobacter	Haliscomenobacter hydrossis	1
+323259	Methanospirillum hungatei	Methanospirillum hungatei JF-1	Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanospirillaceae	Methanospirillum	Methanospirillum hungatei	1
+309798	Coprothermobacter proteolyticus	Coprothermobacter proteolyticus DSM 5265	Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Thermodesulfobiaceae	Coprothermobacter	Coprothermobacter proteolyticus	1
+709797	Bradyrhizobiaceae bacterium	Bradyrhizobiaceae bacterium SG-6C	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	1	1	1
+456442	Methanoregula boonei	Methanoregula boonei 6A8	Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanoregula	Methanoregula boonei	1
+649743	Actinomyces sp. 848	Actinomyces sp. oral taxon 848 str. F0332	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 848	1
+879310	Selenomonas sp F0430	Selenomonas sp. oral taxon 137 str. F0430	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Selenomonas	Selenomonas sp. oral taxon 137	1
+553219	Campylobacter showae	Campylobacter showae RM3277	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter showae	1
+592010	Abiotrophia defectiva	Abiotrophia defectiva ATCC 49176	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	Abiotrophia defectiva	1
+944560	Actinomyces sp. 175	Actinomyces sp. oral taxon 175 str. F0384	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 175	1
+888059	Capnocytophaga sp. 338	Capnocytophaga sp. oral taxon 338 str. F0234	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga sp. oral taxon 338	1
+762963	Actinomyces sp. 170	Actinomyces sp. oral taxon 170 str. F0386	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 170	1
+873517	Capnocytophaga ochracea F0287	Capnocytophaga ochracea F0287	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga ochracea	1
+553177	Capnocytophaga sputigena	Capnocytophaga sputigena ATCC 33612	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga sputigena	1
+887898	Lautropia mirabilis	Lautropia mirabilis ATCC 51599	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Lautropia	Lautropia mirabilis	1
+203275	Tannerella forsythia	Tannerella forsythia ATCC 43037	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Tannerella	Tannerella forsythia	1
+232363	Synechococcus sp. CB0205	Synechococcus sp. CB0205	Bacteria	Cyanobacteria	1	Chroococcales	1	Synechococcus	1	1
+521096	Tsukamurella paurometabola	Tsukamurella paurometabola DSM 20162	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Tsukamurellaceae	Tsukamurella	Tsukamurella paurometabola	1
+596324	Treponema vincentii	Treponema vincentii ATCC 35580	Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema vincentii	1
+860228	Capnocytophaga canimorsus	Capnocytophaga canimorsus Cc5	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga canimorsus	1
+553218	Campylobacter rectus	Campylobacter rectus RM3267	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter rectus	1
+525245	Actinomyces coleocanis	Actinomyces coleocanis DSM 15436	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces coleocanis	1
+649764	Slackia exigua	Slackia exigua ATCC 700122	Bacteria	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Slackia	Slackia exigua	1
+71421	Haemophilus influenzae	Haemophilus influenzae Rd KW20	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus influenzae	1
+577650	Desulfobulbus propionicus	Desulfobulbus propionicus DSM 2032	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfobulbus	Desulfobulbus propionicus	1
+479435	Kribbella flavida	Kribbella flavida DSM 17836	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Kribbella	Kribbella flavida	1
+397945	Acidovorax citrulli	Acidovorax citrulli AAC00-1	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax citrulli	1
+345219	Bacillus coagulans	Bacillus coagulans 36D1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus coagulans	1
+715451	Alteromonas sp. SN2	Alteromonas sp. SN2	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	1	1
+398720	Leeuwenhoekiella blandensis	Leeuwenhoekiella blandensis MED217	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Leeuwenhoekiella	Leeuwenhoekiella blandensis	1
+627192	Sphingobium sp. SYK6	Sphingobium sp. SYK-6	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	1	1
+717785	Hyphomicrobium sp. MC1	Hyphomicrobium sp. MC1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	1	1
+266940	Kineococcus radiotolerans	Kineococcus radiotolerans SRS30216	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Kineococcus	Kineococcus radiotolerans	1
+269798	Cytophaga hutchinsonii	Cytophaga hutchinsonii ATCC 33406	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Cytophaga	Cytophaga hutchinsonii	1
+164757	Mycobacterium sp. JLS	Mycobacterium sp. JLS	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1	1
+176279	Staphylococcus epidermidis RP62A	Staphylococcus epidermidis RP62A	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis	1
+641147	Simonsiella muelleri	Simonsiella muelleri ATCC 29453	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Simonsiella	Simonsiella muelleri	1
+525264	Corynebacterium pseudogenitalium	Corynebacterium pseudogenitalium ATCC 33035	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudogenitalium	1
+716541	Enterobacter cloacae ATCC13047	Enterobacter cloacae subsp. cloacae ATCC 13047	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	Enterobacter cloacae subsp. cloacae
+592015	Anaerobaculum hydrogeniformans	Anaerobaculum hydrogeniformans ATCC BAA-1850	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Anaerobaculum	Anaerobaculum hydrogeniformans	1
+635013	Thermincola potens	Thermincola potens JR	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Thermincola	Thermincola potens	1

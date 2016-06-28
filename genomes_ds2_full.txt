@@ -1,0 +1,155 @@
+ds_labels											
+Escherichia_coli_O157_H7_EC4115	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Leuconostoc_mesenteroides_mesenteroides_ATCC_8293	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Coprococcus_comes_ATCC_27758	470146	Coprococcus comes	Coprococcus comes ATCC 27758	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus comes	1
+Akkermansia_muciniphila_ATCC_BAA_835	349741	Akkermansia muciniphila	Akkermansia muciniphila ATCC BAA-835	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila	1
+Alistipes_putredinis_DSM_17216	445970	Alistipes putredinis	Alistipes putredinis DSM 17216	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis	1
+Anaerotruncus_colihominis_DSM_17241	445972	Anaerotruncus colihominis	Anaerotruncus colihominis DSM 17241	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus colihominis	1
+Bacteroides_caccae_ATCC_43185	411901	Bacteroides caccae	Bacteroides caccae ATCC 43185	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae	1
+Bacteroides_cellulosilyticus_DSM_14838	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_coprocola_M16_DSM_17136	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_coprophilus_DSM_18228	547042	Bacteroides coprophilus	Bacteroides coprophilus DSM 18228	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprophilus	1
+Bacteroides_dorei_5_1_36_D4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_dorei_DSM_17855	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_eggerthii_DSM_20697	483216	Bacteroides eggerthii	Bacteroides eggerthii DSM 20697	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides eggerthii	1
+Bacteroides_finegoldii_DSM_17565	483215	Bacteroides finegoldii	Bacteroides finegoldii DSM 17565	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides finegoldii	1
+Bacteroides_fragilis_3_1_12	457424	Bacteroides fragilis 3112	Bacteroides fragilis 3_1_12	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis	1
+Bacteroides_intestinalis_341_DSM_17393	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_ovatus_ATCC_8483	411476	Bacteroides ovatus	Bacteroides ovatus ATCC 8483	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus	1
+Bacteroides_pectinophilus_ATCC_43243	483218	Bacteroides pectinophilus	Bacteroides pectinophilus ATCC 43243	Bacteria	Firmicutes	Clostridia	Clostridiales	1	1	Bacteroides pectinophilus	1
+Bacteroides_plebeius_M12_DSM_17135	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_sp_2_1_7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_sp_2_2_4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_sp_4_3_47FAA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_sp_9_1_42FAA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_sp_D1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_stercoris_ATCC_43183	449673	Bacteroides stercoris	Bacteroides stercoris ATCC 43183	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides stercoris	1
+Bacteroides_thetaiotaomicron_VPI_5482	226186	Bacteroides thetaiotaomicron	Bacteroides thetaiotaomicron VPI-5482	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron	1
+Bacteroides_uniformis_ATCC_8492	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bacteroides_vulgatus_ATCC_8482	435590	Bacteroides vulgatus	Bacteroides vulgatus ATCC 8482	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides vulgatus	1
+Bacteroides_xylanisolvens_XB1A	657309	Bacteroides xylanisolvens	Bacteroides xylanisolvens XB1A	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens	1
+Bifidobacterium_adolescentis_L2_32	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_catenulatum_DSM_16992	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_longum_longum_CCUG_52486	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_pseudocatenulatum_DSM_20438	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Blautia_hansenii_VPI_C7_24_DSM_20583	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bryantella_formatexigens_I_52_DSM_14469	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Butyrivibrio_crossotus_DSM_2876	511680	Butyrivibrio crossotus	Butyrivibrio crossotus DSM 2876	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio	Butyrivibrio crossotus	1
+Catenibacterium_mitsuokai_DSM_15897	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridiales_sp_SS3_4	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridium_asparagiforme_DSM_15981	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridium_bartlettii_DSM_16795	445973	Clostridium bartlettii	Clostridium bartlettii DSM 16795	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Intestinibacter	Intestinibacter bartlettii	1
+Clostridium_bolteae_ATCC_BAA_613	411902	Clostridium bolteae	Clostridium bolteae ATCC BAA-613	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Clostridium bolteae	1
+Clostridium_leptum_DSM_753	428125	Clostridium leptum	Clostridium leptum DSM 753	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	Clostridium leptum	1
+Clostridium_methylpentosum_R2_DSM_5476	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridium_nexile_DSM_1787	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridium_scindens_ATCC_35704	411468	Clostridium scindens	Clostridium scindens ATCC 35704	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Clostridium scindens	1
+Clostridium_sp_L2_50	411489	Clostridium sp. L250	Clostridium sp. L2-50	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	1	1
+Clostridium_sp_M62_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridium_sp_SS2_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Collinsella_aerofaciens_ATCC_25986	411903	Collinsella aerofaciens	Collinsella aerofaciens ATCC 25986	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens	1
+Coprobacillus_sp_D7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Coprococcus_eutactus_ATCC_27759	411474	Coprococcus eutactus	Coprococcus eutactus ATCC 27759	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus eutactus	1
+Dorea_formicigenerans_ATCC_27755	411461	Dorea formicigenerans	Dorea formicigenerans ATCC 27755	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea formicigenerans	1
+Dorea_longicatena_DSM_13814	411462	Dorea longicatena	Dorea longicatena DSM 13814	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea longicatena	1
+Enterococcus_faecalis_TX0104	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Eubacterium_biforme_DSM_3989	518637	Eubacterium biforme	Eubacterium biforme DSM 3989	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella biformis	1
+Eubacterium_hallii_DSM_3353	411469	Eubacterium hallii	Eubacterium hallii DSM 3353	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium hallii	1
+Eubacterium_rectale_M104_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Eubacterium_siraeum_70_3	657319	Eubacterium siraeum	Eubacterium siraeum 70/3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	Eubacterium siraeum	1
+Eubacterium_ventriosum_ATCC_27560	411463	Eubacterium ventriosum	Eubacterium ventriosum ATCC 27560	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium ventriosum	1
+Faecalibacterium_prausnitzii_SL3_3	657322	Faecalibacterium prausnitzii SL33	Faecalibacterium prausnitzii SL3/3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii	1
+Gordonibacter_pamelaeae_7_10_1_bT_DSM_19378	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Holdemania_filiformis_VPI_J1_31B_1_DSM_12042	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Parabacteroides_distasonis_ATCC_8503	435591	Parabacteroides distasonis	Parabacteroides distasonis ATCC 8503	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides distasonis	1
+Parabacteroides_johnsonii_DSM_18315	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Parabacteroides_merdae_ATCC_43184	411477	Parabacteroides merdae	Parabacteroides merdae ATCC 43184	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides merdae	1
+Prevotella_copri_CB7_DSM_18205	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Pseudoflavonifractor_capillosus_ATCC_29799	411467	Pseudoflavonifractor capillosus	Pseudoflavonifractor capillosus ATCC 29799	Bacteria	Firmicutes	Clostridia	Clostridiales	1	Pseudoflavonifractor	Pseudoflavonifractor capillosus	1
+Roseburia_intestinalis_M50_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Ruminococcus_bromii_L2_63	657321	Ruminococcus bromii	Ruminococcus bromii L2-63	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus bromii	1
+Ruminococcus_gnavus_ATCC_29149	411470	Ruminococcus gnavus	Ruminococcus gnavus ATCC 29149	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Ruminococcus gnavus	1
+Ruminococcus_lactaris_ATCC_29176	471875	Ruminococcus lactaris	Ruminococcus lactaris ATCC 29176	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus lactaris	1
+Ruminococcus_obeum_A2_162	657314	Ruminococcus obeum A2162	Ruminococcus obeum A2-162	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia obeum	1
+Ruminococcus_sp_SR1_5	657323	Ruminococcus sp. SR15	Ruminococcus sp. SR1/5	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	1	1
+Ruminococcus_torques_L2_14	657313	Ruminococcus torques L214	Ruminococcus torques L2-14	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Ruminococcus torques	1
+Streptococcus_thermophilus_LMD_9	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Subdoligranulum_variabile_DSM_15176	411471	Subdoligranulum variabile	Subdoligranulum variabile DSM 15176	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	Subdoligranulum variabile	1
+Clostridium_symbiosum_WAL_14163	742740	Clostridium symbiosum	Clostridium symbiosum WAL-14163	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Clostridium symbiosum	1
+Actinobacillus_pleuropneumoniae_sv_7_AP76	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Actinomyces_odontolyticus_ATCC_17982	411466	Actinomyces odontolyticus	Actinomyces odontolyticus ATCC 17982	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces odontolyticus	1
+Anaerococcus_hydrogenalis_DSM_7454	561177	Anaerococcus hydrogenalis	Anaerococcus hydrogenalis DSM 7454	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	Anaerococcus hydrogenalis	1
+Anaerofustis_stercorihominis_DSM_17244	445971	Anaerofustis stercorihominis	Anaerofustis stercorihominis DSM 17244	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Anaerofustis	Anaerofustis stercorihominis	1
+Anaerostipes_caccae_DSM_14662	411490	Anaerostipes caccae	Anaerostipes caccae DSM 14662	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	Anaerostipes caccae	1
+Bifidobacterium_angulatum_DSM_20098	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_animalis_lactis_AD011	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_bifidum_NCIMB_41171	398513	Bifidobacterium bifidum	Bifidobacterium bifidum NCIMB 41171	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	1
+Bifidobacterium_breve_DSM_20213	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_dentium_ATCC_27678	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bifidobacterium_gallicum_DSM_20093	561180	Bifidobacterium gallicum	Bifidobacterium gallicum DSM 20093	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium gallicum	1
+Blautia_hydrogenotrophica_DSM_10507	476272	Blautia hydrogenotrophica	Blautia hydrogenotrophica DSM 10507	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hydrogenotrophica	1
+Butyrivibrio_fibrisolvens_16_4	657324	Butyrivibrio fibrisolvens	Butyrivibrio fibrisolvens 16/4	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio	Butyrivibrio fibrisolvens	1
+Campylobacter_concisus_13826	360104	Campylobacter concisus	Campylobacter concisus 13826	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter concisus	1
+Campylobacter_hominis_ATCC_BAA_381	360107	Campylobacter hominis	Campylobacter hominis ATCC BAA-381	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter hominis	1
+Candidatus_Sulcia_muelleri_GWSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Citrobacter_koseri_ATCC_BAA_895	290338	Citrobacter koseri	Citrobacter koseri ATCC BAA-895	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Citrobacter	Citrobacter koseri	1
+Citrobacter_sp_30_2	469595	Citrobacter sp. 302	Citrobacter sp. 30_2	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Citrobacter	1	1
+Clostridium_difficile_630	272563	Clostridium difficile	Clostridium difficile 630	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptoclostridium	Peptoclostridium difficile	1
+Clostridium_hylemonae_DSM_15053	553973	Clostridium hylemonae	Clostridium hylemonae DSM 15053	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Clostridium hylemonae	1
+Clostridium_perfringens_ATCC_13124	195103	Clostridium perfringens ATCC13124	Clostridium perfringens ATCC 13124	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium perfringens	1
+Clostridium_phytofermentans_ISDg	357809	Clostridium phytofermentans	Clostridium phytofermentans ISDg	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium phytofermentans	1
+Clostridium_ramosum_VPI_0427_DSM_1402	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Clostridium_sp_7_2_43FAA	457396	Clostridium sp. 7243FAA	Clostridium sp. 7_2_43FAA	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	1	1
+Clostridium_spiroforme_DSM_1552	428126	Clostridium spiroforme	Clostridium spiroforme DSM 1552	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	Clostridium spiroforme	1
+Collinsella_intestinalis_DSM_13280	521003	Collinsella intestinalis	Collinsella intestinalis DSM 13280	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella intestinalis	1
+Collinsella_stercoris_DSM_13279	445975	Collinsella stercoris	Collinsella stercoris DSM 13279	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella stercoris	1
+Cronobacter_sakazakii_ATCC_BAA_894	290339	Cronobacter sakazakii	Cronobacter sakazakii ATCC BAA-894	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Cronobacter	Cronobacter sakazakii	1
+Desulfovibrio_piger_ATCC_29098	411464	Desulfovibrio piger	Desulfovibrio piger ATCC 29098	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio piger	1
+Desulfovibrio_vulgaris_Miyazaki_F	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Enterobacter_cancerogenus_ATCC_35316	500639	Enterobacter cancerogenus	Enterobacter cancerogenus ATCC 35316	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cancerogenus	1
+Enterobacter_sp_638	399742	Enterobacter sp. 638	Enterobacter sp. 638	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	1	1
+Enterococcus_faecalis_TX1322	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Enterococcus_sp_7L76	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Escherichia_fergusonii_UMN026_ATCC_35469	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Eubacterium_dolichum_DSM_3991	428127	Eubacterium dolichum	Eubacterium dolichum DSM 3991	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	1	Eubacterium dolichum	1
+Finegoldia_magna_ATCC_29328	334413	Finegoldia magna ATCC29328	Finegoldia magna ATCC 29328	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Finegoldia	Finegoldia magna	1
+Fusobacterium_nucleatum_nucleatum_ATCC_25586	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Haemophilus_influenzae_NTHi_86_028NP	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Haemophilus_parasuis_SH0165	557723	Haemophilus parasuis	Haemophilus parasuis SH0165	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parasuis	1
+Helicobacter_pullorum_MIT_98_5489	537972	Helicobacter pullorum	Helicobacter pullorum MIT 98-5489	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter pullorum	1
+Klebsiella_pneumoniae_342	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_acidophilus_NCFM	272621	Lactobacillus acidophilus NCFM	Lactobacillus acidophilus NCFM	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus acidophilus	1
+Lactobacillus_casei_casei_BL23	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_delbrueckii_bulgaricus_ATCC_11842	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_fermentum_IFO_3956	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_gasseri_ATCC_33323	324831	Lactobacillus gasseri	Lactobacillus gasseri ATCC 33323	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	1
+Lactobacillus_helveticus_DPC_4571	405566	Lactobacillus helveticus	Lactobacillus helveticus DPC 4571	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus helveticus	1
+Lactobacillus_hilgardii_ATCC_8290	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_johnsonii_NCC_533	257314	Lactobacillus johnsonii	Lactobacillus johnsonii NCC 533	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus johnsonii	1
+Lactobacillus_paracasei_ATCC_25302	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_reuteri_SD2112_ATCC_55730	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_sakei_sakei_23K	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_salivarius_HO66_ATCC_11741	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lactobacillus_ultunensis_DSM_16047	525365	Lactobacillus ultunensis	Lactobacillus ultunensis DSM 16047	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus ultunensis	1
+Lactococcus_lactis_cremoris_MG1363	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Megamonas_hypermegale_ART12_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Methanobrevibacter_smithii_DSM_2375	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Methanosphaera_stadtmanae_DSM_3091	339860	Methanosphaera stadtmanae	Methanosphaera stadtmanae DSM 3091	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanosphaera	Methanosphaera stadtmanae	1
+Mitsuokella_multacida_DSM_20544	500635	Mitsuokella multacida	Mitsuokella multacida DSM 20544	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Mitsuokella	Mitsuokella multacida	1
+Pasteurella_multocida_multocida_Pm70	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Pediococcus_pentosaceus_ATCC_25745	278197	Pediococcus pentosaceus	Pediococcus pentosaceus ATCC 25745	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	Pediococcus pentosaceus	1
+Porphyromonas_gingivalis_ATCC_33277	431947	Porphyromonas gingivalis ATCC33277	Porphyromonas gingivalis ATCC 33277	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas gingivalis	1
+Proteus_mirabilis_HI4320	529507	Proteus mirabilis	Proteus mirabilis HI4320	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus mirabilis	1
+Proteus_penneri_ATCC_35198	471881	Proteus penneri	Proteus penneri ATCC 35198	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus penneri	1
+Pseudomonas_aeruginosa_LESB58	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Salmonella_enterica_sv_Heidelberg_SL476_CVM30485	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Staphylococcus_saprophyticus_saprophyticus_ATCC_15305	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Streptococcus_gordonii_Challis_CH1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Streptococcus_infantarius_infantarius_ATCC_BAA_102	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Streptococcus_mutans_UA159	210007	Streptococcus mutans	Streptococcus mutans UA159	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mutans	1
+Streptococcus_pneumoniae_Hungary19A_6	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Streptococcus_pyogenes_M4_MGAS10750	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Streptococcus_sanguinis_SK36	388919	Streptococcus sanguinis SK36	Streptococcus sanguinis SK36	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sanguinis	1
+Streptococcus_suis_05ZYH33	391295	Streptococcus suis	Streptococcus suis 05ZYH33	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus suis	1
+Thermoanaerobacter_sp_X514	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tropheryma_whipplei_Twist	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
