@@ -8,6 +8,7 @@ associations_ds1.txt	Micorbe-microbe functional association indices for organism
 associations_ds2.txt	Micorbe-microbe functional association indices for organisms in dataset 2
 associations_fig2.txt	Micorbe-microbe functional association indices for organisms in Fig. 2
 clustering_rdp	RDP clustering of 16S rRNA sequences form greengenes and reference genomes from STRING
+COG_links_GN_shifted_norm_th275	Network of gene families connected by unit normalized gene neighbor scores and used in MCL clustering 
 competition_ds2_full.txt	Metabolic competition indices for gut micro-organisms in Levy and Borenstein 2013
 complementarity_ds2_full.txt	Metabolic complementarity indices for gut micro-organisms in Levy and Borenstein 2013
 cooccurrence_ds1.txt
