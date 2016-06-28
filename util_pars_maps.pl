@@ -45,7 +45,7 @@ close(IN);
 
 
 
-my $outf="otus/97_99_otu_map.txt";
+my $outf="97_99_otu_map.txt";
 open (OUT, "> $outf");
 
 foreach my $o (keys %OTUs_97)
